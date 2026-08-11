@@ -1,4 +1,4 @@
-# FUTURE_DS_01
+# Sales-Data-Analysis
 Power BI Sales Dashboard analyzing total sales, profit, orders, and regional performance – Internship Task 1 with Future Interns.
 🚀 Task 1 – Sales Performance Dashboard
 Internship with Future Interns
